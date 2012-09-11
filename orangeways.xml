@@ -1,7 +1,7 @@
 <bpy>
   <Theme>
     <view_3d>
-      <ThemeView3D object_active="#ffc280"
+      <ThemeView3D object_active="#ffa836"
                    editmesh_active="#ffffff80"
                    act_spline="#db2512"
                    handle_align="#803060"

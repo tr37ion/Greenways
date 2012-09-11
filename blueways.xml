@@ -1,7 +1,7 @@
 <bpy>
   <Theme>
     <view_3d>
-      <ThemeView3D object_active="#ffc280"
+      <ThemeView3D object_active="#00bfd1"
                    editmesh_active="#ffffff80"
                    act_spline="#db2512"
                    handle_align="#803060"
@@ -33,7 +33,7 @@
                    handle_sel_free="#000000"
                    freestyle_edge_mark="#7fff7f"
                    freestyle_face_mark="#7fff7f33"
-                   grid="#1d1d1d"
+                   grid="#191919"
                    lamp="#00000028"
                    lastsel_point="#ffffff"
                    nurb_uline="#909000"
@@ -509,7 +509,7 @@
       <ThemeUserInterface icon_alpha="1"
                           icon_file="">
         <wcol_box>
-          <ThemeWidgetColors inner="#2e2e2eff"
+          <ThemeWidgetColors inner="#3b3b3bff"
                              inner_sel="#646464ff"
                              item="#1d1d1dff"
                              outline="#0f0f0f"
