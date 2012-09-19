@@ -3,10 +3,7 @@
 These are some Blender UI themes for your daily use. The idea behind their design is to create themes with unobtrusive design.
 
 ##Install
-Copy the *.xml files into your Blender's theme folder "./scripts/presets/interface_theme" and select the theme in your Blender / User prefrences / themes section.
-
-##Contribute
-Help is always welcome. If you find issues just report them or fix them yourself. Contribution is appreciated. 
+Copy the *.xml files into your Blender's theme folder "./scripts/presets/interface_theme" and select the theme in your 'Blender/User Prefrences/Themes' section of Blender.
 
 ##License
 GNU GENERAL PUBLIC LICENSE
