@@ -589,7 +589,7 @@
                              shadetop="5"
                              show_shaded="FALSE"
                              text="#575757"
-                             text_sel="#ff66c8">
+                             text_sel="#ff6ac8">
           </ThemeWidgetColors>
         </wcol_option>
         <panel>
@@ -630,7 +630,7 @@
                              shadetop="5"
                              show_shaded="FALSE"
                              text="#555555"
-                             text_sel="#a00063">
+                             text_sel="#e40090">
           </ThemeWidgetColors>
         </wcol_radio>
         <wcol_regular>
@@ -642,7 +642,7 @@
                              shadetop="0"
                              show_shaded="FALSE"
                              text="#787878"
-                             text_sel="#a00063">
+                             text_sel="#b1006f">
           </ThemeWidgetColors>
         </wcol_regular>
         <wcol_scroll>
@@ -712,7 +712,7 @@
                              shadetop="5"
                              show_shaded="FALSE"
                              text="#787878"
-                             text_sel="#a00063">
+                             text_sel="#b1006f">
           </ThemeWidgetColors>
         </wcol_tool>
         <wcol_tooltip>
